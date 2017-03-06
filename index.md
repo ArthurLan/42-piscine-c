@@ -32,11 +32,11 @@ layout: base
 
 ## Weekend group "Colles"
 
-[Colle 00](pdfs/colle00.fr.pdf)
-[Colle 01](pdfs/colle01.fr.pdf)
-[Colle 02](pdfs/colle02.fr.pdf)
+[Colle 00](pdfs/colle00.fr.pdf)  
+[Colle 01](pdfs/colle01.fr.pdf)  
+[Colle 02](pdfs/colle02.fr.pdf)  
 
 ## Useful links
 
-[Norme v1.8](pdfs/norme42-v1.8.pdf)
-[Youtube playlist of course](https://www.youtube.com/watch?v=dm_ms3d5Jwc&list=PLIXVN1KHt2a7UuyDroq9QLJm0sMGfgDj8)
+[Norme v1.8](pdfs/norme42-v1.8.pdf)  
+[Youtube playlist of course](https://www.youtube.com/watch?v=dm_ms3d5Jwc&list=PLIXVN1KHt2a7UuyDroq9QLJm0sMGfgDj8)  
