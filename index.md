@@ -15,7 +15,7 @@ layout: base
 | [06](pdfs/d06.fr.pdf) | libft & argc/argv | 4/4 |
 | [07](pdfs/d07.fr.pdf) | malloc | 5/7 |
 | [08](pdfs/d08.fr.pdf) | preprocessor & structures | 3/5 |
-| [09](pdfs/d09/ex00.fr.pdf) | *it's a trap* | nada, niet, zilch, trou noir |
+| [09](pdfs/d09/ex00.pdf) | **it's a trap** | nada, niet, zilch, trou noir |
 | [10](pdfs/j10.fr.pdf) | makefile & functions ptrs | 9/9 |
 | [11](pdfs/d11.fr.pdf) | chained lists | 17/17 |
 | [12](pdfs/d12.fr.pdf) | file handling | 3/4 |
