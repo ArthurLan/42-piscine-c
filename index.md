@@ -1,42 +1,14 @@
----
-layout: base
----
+### Welcome to GitHub Pages.
+This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
-## Daily exercises
+### Designer Templates
+We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
 
-| daily | content | status |
-|---    |---      |---     |
-| [00](pdfs/d00.fr.pdf) | shell | 11/11 |
-| [01](pdfs/d01.fr.pdf) | shell | 8/8 |
-| [02](pdfs/d02.fr.pdf) | first day of c | 7/7 |
-| [03](pdfs/d03.fr.pdf) | pointers | 9/9 |
-| [04](pdfs/d04.fr.pdf) | algorithms | 9/9 |
-| [05](pdfs/d05.fr.pdf) | string stuff | 20/20 |
-| [06](pdfs/d06.fr.pdf) | libft & argc/argv | 4/4 |
-| [07](pdfs/d07.fr.pdf) | malloc | 5/7 |
-| [08](pdfs/d08.fr.pdf) | preprocessor & structures | 3/5 |
-| [09](pdfs/d09/ex00.pdf) | **it's a trap** | nada, niet, zilch, trou noir |
-| [10](pdfs/j10.fr.pdf) | makefile & functions ptrs | 9/9 |
-| [11](pdfs/d11.fr.pdf) | chained lists | 17/17 |
-| [12](pdfs/d12.fr.pdf) | file handling | 3/4 |
-| [13](pdfs/d13.fr.pdf) | binary trees | 7/9 (no red/black trees) |
+### Creating pages manually
+If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
 
-## Weekend projects
+### Authors and Contributors
+You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
-| projects | status |
-|---       |--- |
-| [Sastantua](pdfs/proj00-sastantua.fr.pdf) | Done |
-| [match/nmatch](pdfs/proj01-matchnmatch.fr.pdf) | Done |
-| [Evalexpr](pdfs/proj02-evalexpr.fr.pdf) | Done |
-| [BSQ](pdfs/proj03-BSQ.fr.pdf) | Done |
-
-## Weekend group "Colles"
-
-[Colle 00](pdfs/colle00.fr.pdf)  
-[Colle 01](pdfs/colle01.fr.pdf)  
-[Colle 02](pdfs/colle02.fr.pdf)  
-
-## Useful links
-
-[Norme v1.8](pdfs/norme42-v1.8.pdf)  
-[Youtube playlist of course](https://www.youtube.com/watch?v=dm_ms3d5Jwc&list=PLIXVN1KHt2a7UuyDroq9QLJm0sMGfgDj8)  
+### Support or Contact
+Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
