@@ -16,7 +16,7 @@ layout: base_architect
 | [07](pdfs/d07.fr.pdf) | malloc | 5/7 |
 | [08](pdfs/d08.fr.pdf) | preprocessor & structures | 3/5 |
 | [09](pdfs/d09/ex00.pdf) | **it's a trap** | nada, niet, zilch, trou noir |
-| [10](pdfs/j10.fr.pdf) | makefile & functions ptrs | 9/9 |
+| [10](pdfs/d10.fr.pdf) | makefile & functions ptrs | 9/9 |
 | [11](pdfs/d11.fr.pdf) | chained lists | 17/17 |
 | [12](pdfs/d12.fr.pdf) | file handling | 3/4 |
 | [13](pdfs/d13.fr.pdf) | binary trees | 7/9 (no red/black trees) |
